@@ -174,8 +174,8 @@ namespace GuitarMate.Controllers
                     var callbackUrl = Url.Action("ConfirmEmail", "Account",
                        new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
                     await UserManager.SendEmailAsync(user.Id,
-                       "Confirm your account", "Please confirm your account by clicking using the following link: \n "
-                       + callbackUrl + " ");
+                       "Confirm your account", "Please confirm your account by clicking <a href=\""
+                       + callbackUrl + "\">here</a>");
 
                     // Uncomment to debug locally 
                     // TempData["ViewBagLink"] = callbackUrl;
