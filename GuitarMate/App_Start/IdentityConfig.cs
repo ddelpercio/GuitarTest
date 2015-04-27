@@ -16,7 +16,6 @@ using System.Net;
 using System.Configuration;
 using System.Diagnostics;
 using System.Net.Mail;
-using System.Web;
 
 namespace GuitarMate
 {
@@ -31,7 +30,7 @@ namespace GuitarMate
         {
             // Plug in your email service here to send an email.
 
-            var sentFrom = "noreply@ourdomain.com";
+            var sentFrom = "noreply.jamsearch@gmail.com";
 
             // Configure the client:
             System.Net.Mail.SmtpClient client = new System.Net.Mail.SmtpClient("smtp.gmail.com");

@@ -56,7 +56,6 @@ C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarMate\Guitar
 C:\Users\DANIELDELPERCIO\documents\visual studio 2013\Projects\GuitarMate\GuitarMate\bin\SendGrid.SmtpApi.dll
 C:\Users\DANIELDELPERCIO\documents\visual studio 2013\Projects\GuitarMate\GuitarMate\bin\SendGridMail.dll
 <<<<<<< HEAD
-<<<<<<< HEAD
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\GuitarMate.dll.config
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\GuitarMate.dll
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\GuitarMate.pdb
@@ -114,7 +113,6 @@ C:\Users\Daniel\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Debug\GuitarMate.csprojResolveAssemblyReference.cache
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Debug\GuitarMate.dll
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Debug\GuitarMate.pdb
-<<<<<<< HEAD
 C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\GuitarMate.dll.config
 C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\GuitarMate.dll
 C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\GuitarMate.pdb
@@ -174,7 +172,61 @@ C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\Guitar
 C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Debug\GuitarMate.pdb
 =======
 >>>>>>> parent of f379af2... das
-=======
 >>>>>>> parent of 06e874f... before commit
-=======
->>>>>>> parent of f379af2... das
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\GuitarMate.dll.config
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\GuitarMate.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\GuitarMate.pdb
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Antlr3.Runtime.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\EntityFramework.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\EntityFramework.SqlServer.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Owin.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Owin.Security.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Newtonsoft.Json.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Owin.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\SendGrid.SmtpApi.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\SendGridMail.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\System.Web.Helpers.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\System.Web.Mvc.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\System.Web.Optimization.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\System.Web.Razor.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\System.Web.WebPages.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\System.Web.WebPages.Razor.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\WebGrease.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\System.Web.Helpers.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\System.Web.Mvc.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\System.Web.Optimization.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\System.Web.Razor.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\System.Web.WebPages.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\System.Web.WebPages.Razor.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Antlr3.Runtime.pdb
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Newtonsoft.Json.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\EntityFramework.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\EntityFramework.SqlServer.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Owin.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Owin.Security.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Debug\GuitarMate.csprojResolveAssemblyReference.cache
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Debug\GuitarMate.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Debug\GuitarMate.pdb
