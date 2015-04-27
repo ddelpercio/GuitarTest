@@ -167,7 +167,7 @@ namespace GuitarMate.Controllers
                 if (result.Succeeded)
                 {
                     //  Comment the following line to prevent log in until the user is confirmed.
-                    // await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);
+                     await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);
 
 
                     string code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
@@ -194,7 +194,7 @@ namespace GuitarMate.Controllers
                     // var callbackUrl = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
                     // await UserManager.SendEmailAsync(user.Id, "Confirm your account", "Please confirm your account by clicking <a href=\"" + callbackUrl + "\">here</a>");
 
-                    return RedirectToAction("Index", "Home");
+                //    return RedirectToAction("Index", "Home");
                 }
                 AddErrors(result);
             }
