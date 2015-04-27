@@ -155,7 +155,8 @@ namespace GuitarMate.Controllers
                 var result = await UserManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
-                    await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);
+                    //  Comment the following line to prevent log in until the user is confirmed.
+                    // await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);
 
 
                     string code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
@@ -165,6 +166,14 @@ namespace GuitarMate.Controllers
                        "Confirm your account", "Please confirm your account by clicking using the following link: \n "
                        + callbackUrl + " ");
 
+                    // Uncomment to debug locally 
+                    // TempData["ViewBagLink"] = callbackUrl;
+
+                    ViewBag.Message = "Check your email and confirm your account, you must be confirmed "
+                                    + "before you can log in.";
+
+                    return View("Info");
+                    //return RedirectToAction("Index", "Home");
 
 
 
