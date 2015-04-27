@@ -56,6 +56,7 @@ C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarMate\Guitar
 C:\Users\DANIELDELPERCIO\documents\visual studio 2013\Projects\GuitarMate\GuitarMate\bin\SendGrid.SmtpApi.dll
 C:\Users\DANIELDELPERCIO\documents\visual studio 2013\Projects\GuitarMate\GuitarMate\bin\SendGridMail.dll
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\GuitarMate.dll.config
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\GuitarMate.dll
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\GuitarMate.pdb
@@ -170,5 +171,7 @@ C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\Guitar
 C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Release\GuitarMate.csprojResolveAssemblyReference.cache
 C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Release\GuitarMate.dll
 C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Release\GuitarMate.pdb
+=======
+>>>>>>> parent of f379af2... das
 =======
 >>>>>>> parent of f379af2... das
