@@ -42,6 +42,9 @@
     <Reference Include="Devtalk.EF.CodeFirst">
       <HintPath>..\packages\EFCodeFirst.CreateTablesOnly.1.0.2\lib\Devtalk.EF.CodeFirst.dll</HintPath>
     </Reference>
+    <Reference Include="FluentMigrator">
+      <HintPath>..\packages\FluentMigrator.1.5.1.0\lib\40\FluentMigrator.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="SendGrid.SmtpApi">
       <HintPath>..\packages\SendGrid.SmtpApi.1.2.1\lib\net40\SendGrid.SmtpApi.dll</HintPath>
