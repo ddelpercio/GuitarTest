@@ -169,3 +169,5 @@ C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\Guitar
 C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Debug\GuitarMate.csprojResolveAssemblyReference.cache
 C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Debug\GuitarMate.dll
 C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Debug\GuitarMate.pdb
+C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Debug\GuitarMate.Migrations.InitialCreate.resources
+C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Debug\GuitarMate.csproj.GenerateResource.Cache
