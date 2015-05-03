@@ -1,9 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-GuitarMate-20150320112933.mdf;Initial Catalog=aspnet-GuitarMate-20150320112933;Integrated Security=True" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\DANIELDELPERCIO\\Documents\\Visual\ Studio\ 2013\\Projects\\GuitarTest\\GuitarMate\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Database=guitartest;Data Source=eu-cdbr-azure-west-a.cloudapp.net;User Id=b98414dcb830dc;Password=89a5b78f" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ddelpercio\\Documents\\Visual\ Studio\ 2013\\Projects\\GuitarTest\\GuitarMate\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="GuitarMate.Models.ApplicationDbContext-Web.config Connection String" description="GuitarMate.Models.ApplicationDbContext Connection String used in web.config by the application to access the database." defaultValue="GuitarMate.Models.ApplicationDbContext_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ddelpercio\\Documents\\Visual\ Studio\ 2013\\Projects\\GuitarTest\\GuitarMate\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GuitarMate.Models.ApplicationDbContext']/@connectionString" />
   </parameter>
   <parameter name="GuitarMate.Models.GuitarPlayerDBContext-Web.config Connection String" description="GuitarMate.Models.GuitarPlayerDBContext Connection String used in web.config by the application to access the database." defaultValue="GuitarMate.Models.GuitarPlayerDBContext_ConnectionString" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\DANIELDELPERCIO\\Documents\\Visual\ Studio\ 2013\\Projects\\GuitarTest\\GuitarMate\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GuitarMate.Models.GuitarPlayerDBContext']/@connectionString" />
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ddelpercio\\Documents\\Visual\ Studio\ 2013\\Projects\\GuitarTest\\GuitarMate\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GuitarMate.Models.GuitarPlayerDBContext']/@connectionString" />
   </parameter>
 </parameters>

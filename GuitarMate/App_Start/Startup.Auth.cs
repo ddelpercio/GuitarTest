@@ -7,7 +7,7 @@ using Microsoft.Owin.Security.Google;
 using Owin;
 using GuitarMate.Models;
 
-namespace GuitarMate
+namespace GuitarMate.Models
 {
     public partial class Startup
     {

@@ -17,9 +17,13 @@ namespace GuitarMate.Models
 
 
     }
-
+    [DbConfigurationType(typeof(MySql.Data.Entity.MySqlEFConfiguration))]
     public class GuitarPlayerDBContext : DbContext
     {
         public DbSet<GuitarPlayer> GuitarPlayers { get; set; }
+    
+        public GuitarPlayerDBContext() : base("GuitarPlayerContext")
+        {
+        }
     }
 }

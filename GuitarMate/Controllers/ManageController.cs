@@ -8,7 +8,7 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using GuitarMate.Models;
 
-namespace GuitarMate.Controllers
+namespace GuitarMate.Models
 {
     [Authorize]
     public class ManageController : Controller

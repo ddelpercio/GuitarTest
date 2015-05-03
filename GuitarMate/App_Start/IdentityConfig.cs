@@ -16,9 +16,9 @@ using System.Net;
 using System.Configuration;
 using System.Diagnostics;
 using System.Net.Mail;
-using System.Web;
 
-namespace GuitarMate
+
+namespace GuitarMate.Models
 {
     public class EmailService : IIdentityMessageService
     {
