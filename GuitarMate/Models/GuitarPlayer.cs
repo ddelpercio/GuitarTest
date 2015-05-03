@@ -21,5 +21,12 @@ namespace GuitarMate.Models
     public class GuitarPlayerDBContext : DbContext
     {
         public DbSet<GuitarPlayer> GuitarPlayers { get; set; }
+        
+
+        public GuitarPlayerDBContext()
+            : base("GuitarPlayersConnection")
+        {
+            Database.SetInitializer<GuitarPlayerDBContext>(new DropCreateDatabaseIfModelChanges<GuitarPlayerDBContext>());
+        }
     }
 }

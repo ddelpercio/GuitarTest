@@ -228,3 +228,6 @@ C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\
 C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Release\GuitarMate.csprojResolveAssemblyReference.cache
 C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Release\GuitarMate.dll
 C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Release\GuitarMate.pdb
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\MySql.Web.dll
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Release\GuitarMate.Migrations.Initial.resources
+C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Release\GuitarMate.csproj.GenerateResource.Cache
