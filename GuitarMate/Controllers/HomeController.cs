@@ -29,5 +29,12 @@ namespace GuitarMate.Controllers
 
             return View();
         }
+
+        public ActionResult Search()
+        {
+            ViewBag.Message = "Search for Ads.";
+
+            return View();
+        }
     }
 }

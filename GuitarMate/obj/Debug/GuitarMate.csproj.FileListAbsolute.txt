@@ -231,3 +231,8 @@ C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\
 C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\MySql.Web.dll
 C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Debug\GuitarMate.Migrations.Initial.resources
 C:\Users\ddelpercio\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Debug\GuitarMate.csproj.GenerateResource.Cache
+C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\MySql.Data.dll
+C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\MySql.Data.Entity.EF6.dll
+C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\bin\MySql.Web.dll
+C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Debug\GuitarMate.Migrations.Initial.resources
+C:\Users\DANIELDELPERCIO\Documents\Visual Studio 2013\Projects\GuitarTest\GuitarMate\obj\Debug\GuitarMate.csproj.GenerateResource.Cache
