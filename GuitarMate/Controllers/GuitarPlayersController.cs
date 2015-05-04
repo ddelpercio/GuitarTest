@@ -49,8 +49,9 @@ namespace GuitarMate.Controllers
             return View(guitarPlayer);
         }
 
-       // [Authorize]
+       
         // GET: GuitarPlayers/Create
+        [Authorize]
         public ActionResult Create()
         {
             return View();
