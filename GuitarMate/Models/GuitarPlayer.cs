@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
+using Microsoft.AspNet.Identity.EntityFramework;
+
 namespace GuitarMate.Models
 {
     public class GuitarPlayer
@@ -14,7 +16,7 @@ namespace GuitarMate.Models
         public String Location { get; set; }
         public String Instrument { get; set; }
         public String AdDescription { get; set; }
-
+    //    public IdentityUser User { get; set; }
 
     }
 
